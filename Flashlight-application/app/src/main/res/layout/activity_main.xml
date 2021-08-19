@@ -4,7 +4,7 @@
     android:layout_width="match_parent">
 
     <ImageButton
-
+        android:id="@+id/toggleButton"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:src="@drawable/power_off"
