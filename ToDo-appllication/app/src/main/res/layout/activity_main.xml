@@ -19,7 +19,7 @@
         android:textStyle="bold" />
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerview"
+        android:id="@+id/ToDolistRecyclerview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/tasktext" />
@@ -36,7 +36,7 @@
         android:layout_marginBottom="30sp"
         android:backgroundTint="@color/theme_green"
         android:clickable="true"
-        app:srcCompat="@android:drawable/ic_menu_add" />
+        android:src="@drawable/ic_baseline_add_24"/>
 
 
 </RelativeLayout>
