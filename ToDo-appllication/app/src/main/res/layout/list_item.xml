@@ -6,13 +6,14 @@
     android:orientation="horizontal"
     android:padding="7sp"
     android:layout_margin="10dp"
-    android:background="@color/black">
+    android:background="@drawable/corner_radius">
 
     <CheckBox
         android:id="@+id/checkboxbtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:buttonTint="@color/theme_white"
+        android:layout_marginStart="3dp"
         />
 
     <TextView
@@ -20,10 +21,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center_vertical"
-        android:paddingLeft="10sp"
-        android:paddingRight="10sp"
+        android:paddingStart="1dp"
+        android:paddingEnd="10sp"
         android:text="Bring vegetables today."
-        android:textSize="25sp"
+        android:textSize="20sp"
         android:textColor="@color/theme_white"/>
 
 </LinearLayout>

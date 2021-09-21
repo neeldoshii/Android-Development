@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Doshi/Desktop/Android-Development/ToDo-appllication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Doshi/Desktop/Android-Development/ToDo-appllication/app/src/main/res/drawable/aa.xml" value="0.1" />
+        <entry key="..\:/Users/Doshi/Desktop/Android-Development/ToDo-appllication/app/src/main/res/drawable/aaa.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Doshi/Desktop/Android-Development/ToDo-appllication/app/src/main/res/drawable/aaaaaa.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Doshi/Desktop/Android-Development/ToDo-appllication/app/src/main/res/drawable/corner_radius.xml" value="0.12" />
         <entry key="..\:/Users/Doshi/Desktop/Android-Development/ToDo-appllication/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.20260416666666667" />
         <entry key="..\:/Users/Doshi/Desktop/Android-Development/ToDo-appllication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
-        <entry key="..\:/Users/Doshi/Desktop/Android-Development/ToDo-appllication/app/src/main/res/layout/activity_main.xml" value="0.4222222222222222" />
-        <entry key="..\:/Users/Doshi/Desktop/Android-Development/ToDo-appllication/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Users/Doshi/Desktop/Android-Development/ToDo-appllication/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Doshi/Desktop/Android-Development/ToDo-appllication/app/src/main/res/layout/list_item.xml" value="0.18" />
       </map>
     </option>
   </component>
