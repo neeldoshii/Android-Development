@@ -22,7 +22,8 @@
         android:id="@+id/ToDolistRecyclerview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/tasktext" />
+        android:layout_below="@+id/tasktext"
+        android:nestedScrollingEnabled="true"/>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/floatingActionButton"
